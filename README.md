@@ -26,9 +26,13 @@ $pip install mechanize
 
 
 git clone https://github.com/HAFIZDXD/Hafizd_XD
+
 #Cara Menjalankan Scripts
+
 $cd Hafizd_XD
+
 $git pull
+
 $python Hafizd_XD_enc.py
 
 
