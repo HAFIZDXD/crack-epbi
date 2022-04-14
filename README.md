@@ -25,11 +25,11 @@ $pip install rich
 $pip install mechanize
 
 
-git clone https://github.com/HAFIZDXD/Hafizd_XD
+git clone https://github.com/HAFIZDXD/crack-epbi
 
 #Cara Menjalankan Scripts
 
-$cd Hafizd_XD
+$cd crack-epbi
 
 $git pull
 
